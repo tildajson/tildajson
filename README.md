@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Hello there, I'm Tilda!<br/>A Backend Developer and Machine Learning Enthusiast.</h1>
+
+<h2>Featured Projects</h2>
+
+
+<h2>Technical Skills</h2>
 
 <!--
 **tildajson/tildajson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
