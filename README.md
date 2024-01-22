@@ -8,12 +8,12 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
 - <b>REST APIs</b>
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
+- <b>Cyber Security Apps</b>
+  - [Cyber Sec Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
 - <b>Machine Learning Apps</b>
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
   - [Covid-19 Sentiment Analysis (Jupyter)](https://github.com/tildajson/sentiment-analysis)
   - [Book Recommendation System (Jupyter)](https://github.com/tildajson/book-recommendations)
-- <b>Cyber Security Apps</b>
-  - [Cyber Sec Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
 - <b>JavaScript Web Apps</b>
   - [Camping Social Media App (JS, Node.js & Express)](https://github.com/tildajson/LaplandCamping)
 
