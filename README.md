@@ -12,8 +12,6 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Cyber Sec Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
 - <b>Machine Learning Apps</b>
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
-  - [Covid-19 Sentiment Analysis (Jupyter)](https://github.com/tildajson/sentiment-analysis)
-  - [Book Recommendation System (Jupyter)](https://github.com/tildajson/book-recommendations)
   
 
 <h2>🔧 Technical Skills:</h2>
