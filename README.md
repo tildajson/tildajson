@@ -14,8 +14,7 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
   - [Covid-19 Sentiment Analysis (Jupyter)](https://github.com/tildajson/sentiment-analysis)
   - [Book Recommendation System (Jupyter)](https://github.com/tildajson/book-recommendations)
-- <b>JavaScript Web Apps</b>
-  - [Camping Social Media App (JS, Node.js & Express)](https://github.com/tildajson/LaplandCamping)
+  
 
 <h2>🔧 Technical Skills:</h2>
 
