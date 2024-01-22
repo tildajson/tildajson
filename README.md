@@ -9,7 +9,7 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>REST APIs</b>
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
 - <b>Cyber Security Apps</b>
-  - [Cyber Sec Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
+  - [Cyber Security Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
 - <b>Machine Learning Apps</b>
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
   
