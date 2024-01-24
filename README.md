@@ -13,6 +13,7 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>Machine Learning Apps</b>
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
   - [Sentiment Analysis (Jupyter & Python)](https://github.com/tildajson/sentiment-analysis)
+  - [Book Recommendation System (Jupyter & Python)](https://github.com/tildajson/book-recommendations)
   
 
 <h2>🔧 Technical Skills:</h2>
