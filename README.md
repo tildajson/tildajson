@@ -6,6 +6,8 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>Python Web Apps</b>
   - [Reading Tracker App (Django)](https://github.com/tildajson/BookBuddy)
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
+- <b>JavaScript Web Apps</b>
+  - [Camping Social Media App (JS & Node)](https://github.com/tildajson/LaplandCamping)
 - <b>REST APIs</b>
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
 - <b>Cyber Security Apps</b>
