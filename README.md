@@ -7,7 +7,7 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Reading Tracker App (Django)](https://github.com/tildajson/BookBuddy)
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
 - <b>C# Web Apps</b>
-  - [VPN App (C# & .NET](https://github.com/tildajson/)
+  - [QR and Barcode Generator (C# & .NET](https://github.com/tildajson/QR-and-Barcode-Generator)
 - <b>JavaScript Web Apps</b>
   - [Camping Social Media App (JS & Node)](https://github.com/tildajson/LaplandCamping)
 - <b>REST APIs</b>
