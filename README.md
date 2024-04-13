@@ -8,8 +8,8 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
 - <b>C# Web Apps</b>
   - [QR and Barcode Generator (C# & .NET](https://github.com/tildajson/QR-and-Barcode-Generator)
-- <b>JavaScript Web Apps</b>
-  - [Camping Social Media App (JS & Node)](https://github.com/tildajson/LaplandCamping)
+- <b>React Web Apps</b>
+  - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator)
 - <b>REST APIs</b>
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
 - <b>Cyber Security Apps</b>
