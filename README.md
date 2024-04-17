@@ -9,7 +9,7 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>C# Web Apps</b>
   - [QR and Barcode Generator (C# & .NET](https://github.com/tildajson/QR-and-Barcode-Generator)
 - <b>React Web Apps</b>
-  - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator)
+  - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator-converter)
 - <b>REST APIs</b>
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
 - <b>Cyber Security Apps</b>
