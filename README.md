@@ -7,11 +7,11 @@ A Backend Developer and Machine Learning Enthusiast</h1>
   - [Reading Tracker App (Django)](https://github.com/tildajson/BookBuddy)
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
 - <b>C# Web Apps</b>
-  - [QR and Barcode Generator (C# & .NET](https://github.com/tildajson/QR-and-Barcode-Generator)
+  - [QR and Barcode Generator (C# & .NET)](https://github.com/tildajson/QR-and-Barcode-Generator)
 - <b>React Web Apps</b>
   - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator-converter)
 - <b>REST APIs</b>
-  - [Chess Club Web API (C# ASP.NET)](https://github.com/tildajson/DotChess-API)
+  - [Chess Club Web API (C# ASP.NET & Docker)](https://github.com/tildajson/DotChess-API)
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
 - <b>Cyber Security Apps</b>
   - [Cyber Security Toolkit (Streamlit & Python)](https://github.com/tildajson/PasswordVault)
