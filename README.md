@@ -6,8 +6,6 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>Python Web Apps</b>
   - [Reading Tracker App (Django)](https://github.com/tildajson/BookBuddy)
   - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
-- <b>C# Web Apps</b>
-  - [QR and Barcode Generator (C# & .NET)](https://github.com/tildajson/QR-and-Barcode-Generator)
 - <b>React Web Apps</b>
   - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator-converter)
 - <b>REST APIs</b>
@@ -18,21 +16,20 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 - <b>Machine Learning Apps</b>
   - [AI Snake (PyTorch & Python)](https://github.com/tildajson/AI-snake)
   - [Computer Vision App (AWS & Python)](https://github.com/tildajson/AWS-computer-vision)
-  - [Sentiment Analysis (Jupyter & Python)](https://github.com/tildajson/sentiment-analysis)
-  - [Book Recommendation System (Jupyter & Python)](https://github.com/tildajson/book-recommendations)
   
 
 <h2>🔧 Technical Skills:</h2>
 
 ![](https://img.shields.io/badge/Programming-3766AB?style=flat-square) ![](https://img.shields.io/badge/C%23-232F3E?style=flat-square&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Javascript-232F3E?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Git-232F3E?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=Linux&logoColor=white)  <br/>
 
-![](https://img.shields.io/badge/Backend-3766AB?style=flat-square) ![](https://img.shields.io/badge/.NET-232F3E?style=flat-square&logo=.NET&logoColor=white) ![](https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=Django&logoColor=white) ![](https://img.shields.io/badge/Flask-232F3E?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/Node.js-232F3E?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-232F3E?style=flat-square&logo=Kubernetes&logoColor=white) <br/>
+![](https://img.shields.io/badge/Backend-3766AB?style=flat-square) ![](https://img.shields.io/badge/.NET-232F3E?style=flat-square&logo=.NET&logoColor=white) ![](https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=Django&logoColor=white) ![](https://img.shields.io/badge/Flask-232F3E?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/Node.js-232F3E?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=Docker&logoColor=white) <br/>
 
-![](https://img.shields.io/badge/Frontend-3766AB?style=flat-square) ![](https://img.shields.io/badge/React-232F3E?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-232F3E?style=flat-square&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/Tailwind-232F3E?style=flat-square&logo=TailwindCSS&logoColor=white) ![](https://img.shields.io/badge/HTML-232F3E?style=flat-square&logo=HTML&logoColor=white) ![](https://img.shields.io/badge/CSS-232F3E?style=flat-square&logo=CSS&logoColor=white) </br>
+![](https://img.shields.io/badge/Frontend-3766AB?style=flat-square) ![](https://img.shields.io/badge/React-232F3E?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-232F3E?style=flat-square&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/Tailwind-232F3E?style=flat-square&logo=TailwindCSS&logoColor=white) ![](https://img.shields.io/badge/HTML-232F3E?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS-232F3E?style=flat-square&logo=CSS3&logoColor=white) </br>
 
-![](https://img.shields.io/badge/Databases-3766AB?style=flat-square) ![](https://img.shields.io/badge/MySql-232F3E?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/Postgres-232F3E?style=flat-square&logo=Postgresql&logoColor=white) ![](https://img.shields.io/badge/SQLite-232F3E?style=flat-square&logo=SQLite&logoColor=white) ![](https://img.shields.io/badge/MongoDB-232F3E?style=flat-square&logo=MongoDB&logoColor=white) <br/>
+![](https://img.shields.io/badge/Databases-3766AB?style=flat-square) ![](https://img.shields.io/badge/MySql-232F3E?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-232F3E?style=flat-square&logo=Postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-232F3E?style=flat-square&logo=MongoDB&logoColor=white) <br/>
 
-![](https://img.shields.io/badge/Tools-3766AB?style=flat-square) ![](https://img.shields.io/badge/VisualStudio-232F3E?style=flat-square&logo=VisualStudio&logoColor=white) ![](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=MicrosoftAzure&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) ![](https://img.shields.io/badge/Jupyter-232F3E?style=flat-square&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Anaconda-232F3E?style=flat-square&logo=Anaconda&logoColor=white) ![](https://img.shields.io/badge/PyTorch-232F3E?style=flat-square&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/Streamlit-232F3E?style=flat-square&logo=Streamlit&logoColor=white)
+![](https://img.shields.io/badge/Tools-3766AB?style=flat-square) ![](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=MicrosoftAzure&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-232F3E?style=flat-square&logo=Kubernetes&logoColor=white) ![](https://img.shields.io/badge/VisualStudio-232F3E?style=flat-square&logo=VisualStudio&logoColor=white) ![](https://img.shields.io/badge/Anaconda-232F3E?style=flat-square&logo=Anaconda&logoColor=white) ![](https://img.shields.io/badge/PyTorch-232F3E?style=flat-square&logo=PyTorch&logoColor=white)
+
 
 <!-- <h2>🌐 Portfolio Website</h2>
 https://tildajson.streamlit.app/
