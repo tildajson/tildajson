@@ -4,10 +4,10 @@ A Backend Developer and Machine Learning Enthusiast</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Web Apps</b>
-  - [Reading Tracker App (Django)](https://github.com/tildajson/BookBuddy)
-  - [Real Time Chat App (Flask)](https://github.com/tildajson/SocialSphere)
+  - [Reading Tracker App (Django & JavaScript)](https://github.com/tildajson/BookBuddy)
+  - [Real Time Chat App (Flask & Bootstrap)](https://github.com/tildajson/SocialSphere)
 - <b>React Web Apps</b>
-  - [Calculator and Converter App (React & Tailwind)](https://github.com/tildajson/React-calculator-converter)
+  - [Calculator and Converter App (React.JS & Tailwind)](https://github.com/tildajson/React-calculator-converter)
 - <b>REST APIs</b>
   - [Chess Club Web API (C# ASP.NET & Docker)](https://github.com/tildajson/DotChess-API)
   - [Recipe REST API (Django & Docker)](https://github.com/tildajson/recipe-REST-API)
