@@ -1,5 +1,5 @@
 <h1>Hello there, I'm Tilda!<br/>
-A Backend Developer and Machine Learning Enthusiast</h1>
+A Software and AI Developer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
